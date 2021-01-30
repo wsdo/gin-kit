@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56a67775-4acb-430b-8e22-dd853598ad70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yy1fs73fassovnOVaXGGtwZPTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="334" key="Github.CreateGistDialog" timestamp="1583900254140">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="529" y="334" key="Github.CreateGistDialog/0.23.1440.811/-2560.-696.2560.1417/-3640.-950.1080.1897@0.23.1440.811" timestamp="1583900254140" />
+    <state x="-2153" y="-641" key="SettingsEditor" timestamp="1584014159306">
+      <screen x="-2560" y="-719" width="2560" height="1440" />
+    </state>
+    <state x="-2153" y="-641" key="SettingsEditor/0.0.1440.900/-2560.-719.2560.1440/-3640.-973.1080.1920@-2560.-719.2560.1440" timestamp="1584014159306" />
+    <state x="229" y="67" key="SettingsEditor/0.23.1440.811/-2560.-696.2560.1417/-3640.-950.1080.1897@0.23.1440.811" timestamp="1583900436468" />
+  </component>
+</project>
